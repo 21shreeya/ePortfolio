@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Communication concepts and strategies</h1>
-      <img src="communication.jpg" alt="jvf">
+      <img src="communication.JPG" alt="jvf">
     <h2>Confidence and skills in oral communications and presentations</h2>
     <h3>Work effectively</h3>
       <img src="team.jpg" alt="hd">
