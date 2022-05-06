@@ -11,5 +11,7 @@
       <img src="team.jpg" alt="hd">
     <h4>Communicate effectively</h4>
     <h5>Conflict management and resolution strategies</h5>
+       <img src="conflict.jpg" alt="dhgy">
+      <img src="resolution.jpg" alt="jhd">
   </body>
  </html> 
