@@ -7,6 +7,7 @@
     <h1>Communication concepts and strategies</h1>
       <img src="communication.JPG" alt="jvf">
     <h2>Confidence and skills in oral communications and presentations</h2>
+     <img src="presentation.jpg" alt="ndu">
     <h3>Work effectively</h3>
       <img src="team.jpg" alt="hd">
     <h4>Communicate effectively</h4>
